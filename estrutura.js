@@ -1,0 +1,1 @@
+const nuber=10
